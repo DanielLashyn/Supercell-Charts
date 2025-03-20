@@ -10,3 +10,6 @@ The following excel files are the charts I used to track the different progressi
 Do note that I since dropped playing each of these games since 2018, making the information outdated.
 
 ## Photos
+
+![Image of Common Progress](https://github.com/DanielLashyn/Supercell-Charts/blob/main/Photos/Clash_Royale_Common_Progress.png?raw=true)
+![Image of Rare Progress](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
