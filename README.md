@@ -14,10 +14,7 @@ Lastly these charts were created before Supercell released API for the games. He
 ## Documentation
 
 ### Clash Royale
-The following images show the progressions for the different card rarities.
-
-
-The tables are set up with the following heading:
+The following images show the progressions for the different card rarities. The tables were set up with the following heading:
 - ```Cards Collected```: The current number of cards a player has for that card.
 - ```Level```: Current level that card is at
 - ```Cards to next level```: Shows the number of missing cards needed for next upgrade.
