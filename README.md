@@ -41,3 +41,13 @@ The following images show the progressions for the different card rarities. The 
 ![Image of Legendary Progress](https://github.com/DanielLashyn/Supercell-Charts/blob/main/Photos/Clash_Royale_Legendary_Progress.png?raw=true)
 
 
+The following image shows the progression information to a selected level. This was useful as certain game modes (ie challenges) only need cards to be upgraded to a certain level. The table was set up with the following heading:
+- ```X level```: The level the player wants to upgrade to.
+- ```Cards to next level```: The remaining cards needed to reach the targeted level.
+- ``` Request left```: Number of requests needed to obtain the targeted level.
+- ```Days left```: Number of days until that card is ready to upgrade to the targeted level.
+- ```Estimated date of the next level```: Approximate date that card could be upgraded to targeted level.
+- ```Gold to level X```: Amount of gold needed to upgrade to the targeted level.
+- ```xp to x level```: Amount of xp gotten from upgrading that card.
+
+![Image of selected level](https://github.com/DanielLashyn/Supercell-Charts/blob/main/Photos/Clash_Royale_Common_What_If.png?raw=true)
