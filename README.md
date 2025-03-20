@@ -13,8 +13,26 @@ Lastly these charts were created before Supercell released API for the games. He
 
 ## Documentation
 
+### Brawl Stars
+The following image show the progression system. The table was set up with the following headings:
+- ```Brawlers```: Name of that brawler.
+- ```Power points```: Number of power points that brawler currently has.
+- ```level```: Current level that brawler is.
+- ```Star power```: If that brawler has its star power ability.
+- ```Power points to next level```: Number of power points needed to reach next level.
+- ```Gold for next level```: Gold needed to upgrade the brawler to the next level.
+- ```Level could be at```: Level that brawler could be at.
+- ```Gold for level to be at```: Gold needed to reach the level that brawler could be at.
+- ```Gold for max level```: Gold needed to reach max level.
+- ```Power points to max level```: Power points needed to reach max level.
+- ```Gold to power points```: The total amount of gold to buy the remaining power points
+
+![Image of Brawl Stars Progress](https://github.com/DanielLashyn/Supercell-Charts/blob/main/Photos/Brawl_Stars_Progress.png?raw=true)
+
+
+
 ### Clash Royale
-The following images show the progressions for the different card rarities. The tables were set up with the following heading:
+The following images show the progressions for the different card rarities. The tables was set up with the following heading:
 - ```Cards Collected```: The current number of cards a player has for that card.
 - ```Level```: Current level that card is at
 - ```Cards to next level```: Shows the number of missing cards needed for next upgrade.
