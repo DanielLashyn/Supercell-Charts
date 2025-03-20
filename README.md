@@ -42,7 +42,7 @@ The following image shows the old progression system that was used in beta. The 
 - ```Total```: Total amount of elixir needed to upgrade the brawler.
 - ```Coin```: The price to unlock that brawler.
 
-![Image of Brawl Stars Progress](https://github.com/DanielLashyn/Supercell-Charts/blob/main/Photos/Brawl_Stars_Previous_Progress.png?raw=true)
+![Image of Brawl Stars Progress](https://github.com/DanielLashyn/Supercell-Charts/blob/main/Photos/Brawl_Stars_Previous_Progress_System.png?raw=true)
 
 
 ### Clash Royale
