@@ -9,7 +9,38 @@ The following excel files are the charts I used to track the different progressi
 
 Do note that I since dropped playing each of these games since 2018, making the information outdated.
 
-## Photos
+Lastly these charts were created before Supercell released API for the games. Hence why there is no use of the API in these document.
+
+## Documentation
+
+### Clash Royale
+The following images show the progressions for the different card rarities.
+
+
+The tables are set up with the following heading:
+- ```Cards Collected```: The current number of cards a player has for that card.
+- ```Level```: Current level that card is at
+- ```Cards to next level```: Shows the number of missing cards needed for next upgrade.
+- ```Request left```: Number of requests needed to obtain the missing cards for the next level.
+- ```Days left```: Approximate number of days until that card is ready to upgrade to the next level. 
+- ```Estimated date of next level```: Shows the date that card will be ready to upgrade.
+- ```Gold for next level```: The amount of gold needed to be upgraded to the next level.
+- ```Level could be at```: The level that card could be at.
+- ```Gold for level be at```: The amount of gold needed to upgrade the card to the level it could be at.
+- ```Cards to max level```: Cards needed to reach max level.
+- ```Request left```: Number of requests needed to obtain max level.
+- ```Days left```: Approximate number of days until that card is ready to upgrade to max level.
+- ```Estimated date of max cards```: Approximate date that card could be upgraded to max level.
+- ```Gold for all levels```: Gold needed to upgrade the card to max level.
+- ```Gold spent```: Total amount of gold already spent on that card.
+- ```Shop Price```: The cost to purchase the remaining cards from the shop.
 
 ![Image of Common Progress](https://github.com/DanielLashyn/Supercell-Charts/blob/main/Photos/Clash_Royale_Common_Progress.png?raw=true)
-![Image of Rare Progress](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+![Image of Rare Progress](https://github.com/DanielLashyn/Supercell-Charts/blob/main/Photos/Clash_Royale_Rare_Progress.png?raw=true)
+
+![Image of Epic Progress](https://github.com/DanielLashyn/Supercell-Charts/blob/main/Photos/Clash_Royale_Epic_Progress.png?raw=true)
+
+![Image of Legendary Progress](https://github.com/DanielLashyn/Supercell-Charts/blob/main/Photos/Clash_Royale_Legendary_Progress.png?raw=true)
+
+
