@@ -1,10 +1,10 @@
 # Supercell-Charts
 
 ## Table of Content
-- [Background](Background)
-- [Documentation](Documentation)
-  - [Brawl Stars](Brawl-Stars)
-  - [Clash Royale](Clash-Royale)
+- [Background](#Background)
+- [Documentation](#Documentation)
+  - [Brawl Stars](#Brawl-Stars)
+  - [Clash Royale](#Clash-Royale)
 ## Background
 
 Throughout my high school years, I played Clash of Clans, Clash Royale, and Brawl Stars during my free time. Because of this I become obsessed with finding the optimal progression path. In the winter of 2015, I created excel charts to track the progression for the different supercell games. 
